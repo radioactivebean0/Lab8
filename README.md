@@ -2,3 +2,7 @@
 
 Cypress and Jest weren't working too well together
 so we've separated the two out in different parts
+
+
+Ryan Nishimoto
+A16555674
